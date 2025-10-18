@@ -93,7 +93,6 @@ export function Projects() {
                   <div className="flex gap-3">
                     <button className="flex items-center gap-2 text-cyan-400 hover:text-cyan-300 transition-colors text-sm">
                       <ExternalLink className="w-4 h-4" />
-                      View Details
                     </button>
                   </div>
                 </div>

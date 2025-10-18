@@ -27,7 +27,7 @@ export function Contact() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a
-                href="mailto:tomihanow@gmail.com"
+                href="mailto:hanow.tomas@gmail.com"
                 className="flex items-center justify-center gap-3 px-6 py-3 bg-cyan-500 hover:bg-cyan-400 text-black font-semibold rounded-lg transition-all duration-300 hover:shadow-[0_0_20px_rgba(0,255,255,0.5)] hover:scale-105"
               >
                 <Mail className="w-5 h-5" />
@@ -55,11 +55,11 @@ export function Contact() {
                 <span>GitHub</span>
               </a>
               <a
-                href="mailto:tomihanow@gmail.com"
+                href="mailto:hanow.tomas@gmail.com"
                 className="flex items-center gap-2 text-gray-400 hover:text-cyan-400 transition-colors"
               >
                 <Send className="w-5 h-5" />
-                <span>tomihanow@gmail.com</span>
+                <span>hanow.tomas@gmail.com</span>
               </a>
             </div>
           </div>

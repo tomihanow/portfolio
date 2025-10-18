@@ -20,7 +20,7 @@ export function About() {
           <div className="backdrop-blur-xl bg-white/5 border border-cyan-500/20 rounded-2xl p-8 md:p-12 shadow-[0_0_50px_rgba(0,255,255,0.1)] hover:shadow-[0_0_80px_rgba(0,255,255,0.2)] transition-all duration-500">
             <p className="text-lg text-gray-300 leading-relaxed mb-8 text-balance">
               I'm a Data Engineer and Technical Solutions Engineer at{" "}
-              <span className="text-cyan-400 font-semibold">Media.Monks</span> with over 5 years of experience building
+              <span className="text-cyan-400 font-semibold">Monks</span> with over 5 years of experience building
               scalable data pipelines, automating workflows, and creating intelligent solutions. I specialize in
               transforming complex data challenges into elegant, automated systems that drive business value.
             </p>
