@@ -1,7 +1,7 @@
 # 🌐 Portfolio - Tomás Hanow
 
 Welcome to my personal portfolio!  
-I'm **Tomás Hanow**, a Technical Solutions Engineer at [Monks](https://www.mediamonks.com/), passionate about automation, digital analytics, and web development.
+I'm **Tomás Hanow**, a Technical Solutions Engineer at Monks, passionate about automation, digital analytics, and web development.
 
 ---
 
